@@ -1,14 +1,21 @@
-### Hi there 👋
+### Bonjour ! 👋
 
-**NathanJourdain/NathanJourdain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle **Nathan Jourdain** et je suis étudiant à **L'institut universitaire de Saint Lô** dans la formation **bachelor universitaire de technologie métiers du multimédia et de l'internet** !
 
-Here are some ideas to get you started:
+Je suis actuellement en train d'apprendre : 
+- Le développement web : 
+  - `HTML`
+  - `CSS`
+  - `JavaScript`
+  - `Php`
+  - `Python`
+- L'infographie et le design
+  - `Adobe Photoshop`
+  - `Adobe Illustrator`
+  - `Adobe XD`
+  - `Figma`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+----------------------
+
+Pour voir ce que j'ai déjà créer tu peux aller explorer mon profil github mais aussi [mon profil codepen](https://codepen.io/nathanjourdain) !

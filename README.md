@@ -8,6 +8,7 @@ Je suis actuellement en train d'apprendre **le développement web** :
   - `JavaScript`
   - `Php`
   - `Python`
+  - `Svelte`
 
 
 

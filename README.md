@@ -15,3 +15,7 @@ Je suis actuellement en train d'apprendre **le développement web** :
 ----------------------
 
 Pour voir ce que j'ai déjà créer tu peux aller explorer mon profil github mais aussi [mon profil codepen](https://codepen.io/nathanjourdain) !
+
+
+Mes projets récents :
+* **[Learniz](learniz.herokuapp.com)** une application web permettant de créer ses propres quiz 

@@ -18,5 +18,7 @@ Pour voir ce que j'ai déjà créer tu peux aller explorer mon profil github mai
 
 
 Mes projets récents :
-* **[Learniz](https://learniz.herokuapp.com)** une application web permettant de créer ses propres quiz 
+* **[Learniz](https://learniz.herokuapp.com)** une application web permettant de créer ses propres quiz
+* **[Landing page](https://nathanjourdain.github.io/Loopstudios)**
 * **[Mon portfolio](https://nathanjourdain.github.io/Portfolio)**
+
